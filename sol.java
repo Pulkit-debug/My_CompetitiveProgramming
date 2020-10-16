@@ -185,7 +185,8 @@ public class sol {
         // printWriter.println("something here");
         // printWriter.close();    --->>  // only this close method will flush the output from the buffer to the output file.
 
-      
+        Reader s = new Reader();
+
         }
 
     }
